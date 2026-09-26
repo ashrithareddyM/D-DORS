@@ -485,6 +485,11 @@ function App() {
               <span>05</span>
               <strong>Suman R B</strong>
             </div>
+                        <div className="team-card">
+              <span>06</span>
+              <strong>Kadaba Srinivas Pranav </strong>
+            </div>
+
           </div>
         </section>
       </main>
