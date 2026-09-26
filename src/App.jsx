@@ -470,25 +470,25 @@ function App() {
               <span>02</span>
               <strong>Nisarga R G</strong>
             </div>
-
-            <div className="team-card">
+                       <div className="team-card">
               <span>03</span>
+              <strong>Kadaba Srinivas Pranav </strong>
+            </div>
+            <div className="team-card">
+              <span>04</span>
               <strong>Prajeet Santosh Gurlahosur</strong>
             </div>
 
             <div className="team-card">
-              <span>04</span>
+              <span>05</span>
               <strong>Ramya Vasanth Bhagawat</strong>
             </div>
 
             <div className="team-card">
-              <span>05</span>
+              <span>06</span>
               <strong>Suman R B</strong>
             </div>
-                        <div className="team-card">
-              <span>06</span>
-              <strong>Kadaba Srinivas Pranav </strong>
-            </div>
+             
 
           </div>
         </section>
