@@ -5,8 +5,7 @@ import Plot from "react-plotly.js"
 import "leaflet/dist/leaflet.css"
 import "./App.css"
 
-const API_URL = "https://omnivore-buffoon-pennant.ngrok-free.dev"
-
+const API_URL = import.meta.env.VITE_API_URL
 const markerIcon = new L.Icon({
   iconUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
   shadowUrl: "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
